@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2020-04-20T09:09:20.057Z" agent="5.0 (Windows)" version="12.9.14" etag="6ivzqTPQpHFA-MdhegP1" type="github"><diagram id="HMQpiP-tSPSNts4JhwJU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-20T09:19:31.351Z" agent="5.0 (Windows)" etag="C9drUx9i8gXYF4dI2gI3" version="12.9.14" type="github">
+  <diagram id="HMQpiP-tSPSNts4JhwJU" name="Page-1">
+    <mxGraphModel dx="2031" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Gn0ldnN1pZ7S6elyUnzn-1" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Search&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;[e.g. &lt;span style=&quot;font-size: 13px ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt;(dashboard OR graficos) AND (covid OR covid19 OR coronavirus) AND (peru OR perú)]&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry y="479" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gn0ldnN1pZ7S6elyUnzn-2" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gn0ldnN1pZ7S6elyUnzn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="549" as="sourcePoint" />
+            <mxPoint x="400" y="509" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gn0ldnN1pZ7S6elyUnzn-3" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Search&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;[e.g. &lt;span style=&quot;font-size: 13px ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt;(dashboard OR graficos) AND (covid OR covid19 OR coronavirus) AND (peru OR perú)]&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry y="479" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gn0ldnN1pZ7S6elyUnzn-4" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Links&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(e.g. Revisen este dashboard en LINK&lt;span style=&quot;font-size: 13px ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt;)&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="400" y="479" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gn0ldnN1pZ7S6elyUnzn-5" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="509" as="sourcePoint" />
+            <mxPoint x="400" y="309" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gn0ldnN1pZ7S6elyUnzn-6" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Perfiles&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(e.g. Miren este gráfico. Pueden revisar más en mi perfil.&lt;span style=&quot;font-size: 13px ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt;)&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="400" y="279" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gn0ldnN1pZ7S6elyUnzn-7" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Gn0ldnN1pZ7S6elyUnzn-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="308.5" as="sourcePoint" />
+            <mxPoint x="830" y="209" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="309" />
+              <mxPoint x="750" y="209" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gn0ldnN1pZ7S6elyUnzn-8" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Contenido Gráfico&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="869" y="179" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gn0ldnN1pZ7S6elyUnzn-9" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="509" as="sourcePoint" />
+            <mxPoint x="869" y="449" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="789" y="509" />
+              <mxPoint x="789" y="449" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gn0ldnN1pZ7S6elyUnzn-10" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="509" as="sourcePoint" />
+            <mxPoint x="869" y="579" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="789" y="509" />
+              <mxPoint x="789" y="579" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gn0ldnN1pZ7S6elyUnzn-11" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Contenido Gráfico&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="869" y="419" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gn0ldnN1pZ7S6elyUnzn-12" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;Referencias&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(e.g. Revisen este dashboard en LINK&lt;span style=&quot;font-size: 13px ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt;)&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="869" y="549" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gn0ldnN1pZ7S6elyUnzn-14" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gn0ldnN1pZ7S6elyUnzn-6" target="Gn0ldnN1pZ7S6elyUnzn-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="308.5" as="sourcePoint" />
+            <mxPoint x="960" y="308.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gn0ldnN1pZ7S6elyUnzn-15" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gn0ldnN1pZ7S6elyUnzn-12" target="Gn0ldnN1pZ7S6elyUnzn-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="629" as="sourcePoint" />
+            <mxPoint x="900" y="699.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1019" y="649" />
+              <mxPoint x="550" y="649" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
